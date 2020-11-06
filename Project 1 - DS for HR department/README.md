@@ -86,7 +86,7 @@ Average Time to Score (s): 0.006
 
 ## Example Visualisation of the Trained model’s Output Predictions:
 <img src="Description Images/LogReg_model_final.png" width="550">
-Image Ref -> Self-Made \
+
 The above demonstrates an example how the trained Logistic Regression model outputs the predictions based on the input data. At the top-right, it shows the data points that represents what the model believes to be Employees that wishes to leave the company based on their attributes such as Salary, Distance from home etc. At the bottom-left shows the Employees that wishes to stay with the company. Note that in reality, the Sigmoid-Curve (although retaining this shape/curve) of the Logistic regression function can vary slightly to the one seen in the diagram as it will be trained and be fitted for this dataset. 
 
 ## Summary:
