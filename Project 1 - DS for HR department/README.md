@@ -32,7 +32,7 @@ As it can be seen from the lists above, it can be exceedingly difficult to pinpo
 8. Utilise final model to make predictions on Employee data.
 
 ## Dataset:
-Link: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+Link: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset \
 Dataset Description (from source): Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists. 
 
 ## Requirements:
