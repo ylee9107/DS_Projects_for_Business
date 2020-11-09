@@ -19,7 +19,7 @@ As it can be seen from the lists above, it can be exceedingly difficult to pinpo
 
 ## Breakdown of the Showcase Files found in this Github Repository(seen above):
 1.	__DSB_Human Resource Department.ipynb__ – Shows my complete step-by-step approach to reaching the final model. This will include all the theory behind each Classification models that I tried and implements, my preprocessing (data cleaning and feature engineering) pipeline testing and configurations, and GridSearch setup to fine-tune the models.
-2.	__HR_Main.ipynb__ – Shows the “Streamlined” version where it removes all the experiments from the notebook mentioned above, and focuses loading in the dataset, precprocessing in and outputting the final results. This can be considered closer to the “Deployable” version of this project.
+2.	__HR_Main.ipynb__ – Shows the “Streamlined” version where it removes all the experiments from the notebook mentioned above, and focuses on loading in the dataset, precprocessing in and outputting the final results. This can be considered closer to the “Deployable” version of this project.
 
 ## Breakdown of this Project:
 1. Loading in the Dataset.
