@@ -54,6 +54,14 @@ Feature engineering techniques that was considered and implemented:
 3. Principcal Component Analysis to transform the features (Parametric assumption).
 4. Restricted Boltzmann Machine (RBM) to create more features (non-parametric assumption).
 
+## Optimum model and its Parameters:
+Best Accuracy: __87.687__% \
+Best Parameters: 
+{'P_featureEng__featureEngineering__k_best__k': 'all', 'P_featureEng__featureEngineering__pca__n_components': 30, 'P_featureEng__featureEngineering__rbm__n_components': 300, 'P_featureEng__featureEngineering__rbm__n_iter': 100, 'P_featureEng__preprocessing__corr__threshold': 0.02, 
+'classifier__C': 0.1}
+Average Time to Fit (s): 1.712
+Average Time to Score (s): 0.006
+
 #### Below shows the summary results:
 
 | Technique | Class | Accuracy (%) | F1-Score (%) | Precision (%) | Recall (%) | GridSearch (fine-tune) |
@@ -75,14 +83,6 @@ Feature engineering techniques that was considered and implemented:
 |  --- | --- | --- | --- | --- | --- | --- |
 | RBM | 0 (No, stayed) | 84 | 91 | 86 | 96) | YES |
 |  | 1 (Yes, left) |  | 27 | 50 | 19 |
-
-## Optimum model and its Parameters:
-Best Accuracy: __87.687__% \
-Best Parameters: 
-{'P_featureEng__featureEngineering__k_best__k': 'all', 'P_featureEng__featureEngineering__pca__n_components': 30, 'P_featureEng__featureEngineering__rbm__n_components': 300, 'P_featureEng__featureEngineering__rbm__n_iter': 100, 'P_featureEng__preprocessing__corr__threshold': 0.02, 
-'classifier__C': 0.1}
-Average Time to Fit (s): 1.712
-Average Time to Score (s): 0.006
 
 ## Example Visualisation of the Trained model’s Output Predictions:
 <img src="Description Images/LogReg_model_final.png" width="550">
