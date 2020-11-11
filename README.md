@@ -1,6 +1,6 @@
 # Data Science Project Showcase:
 
-Welcome to my GitHub profile. This is the main page and folder that will hold most of my showcase projects. These projects will be used to demonstrate my skills as a Data Scientist in handling and tackling different types of (Data) problems. I hope that you will find these useful and perhaps even inspiring. \
+Welcome to my GitHub profile. This is the main page and folder that will hold most of my showcase projects. These projects will be used to demonstrate my skills as a Data Scientist in handling and tackling different types of (Data) problems. I hope that you will find these useful and perhaps even inspiring. 
 
 Below is a chart showing the projects available to view and its short description. There will be links provided for navigation to each individual project. 
 
