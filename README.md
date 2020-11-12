@@ -5,7 +5,7 @@ Welcome to my GitHub profile. This is the main page and folder that will hold mo
 Below is a chart showing the projects available to view and its short description. There will be links provided for navigation to each individual project. 
 
 ### Overview of the Projects for Showcase:
-<img src="Display Images/2020_Nov_GitHub_Projects_Guide.PNG " width="950">
+<img src="Display Images/2020_Nov_GitHub_Projects_Guide.PNG " width="1050">
 
 ### Links to the Showcase Projects:
 1.	[Employee Attrition](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%201%20-%20DS%20for%20HR%20department)
@@ -14,7 +14,7 @@ Below is a chart showing the projects available to view and its short descriptio
 4.	[Underpriced Apartment Listings](https://github.com/ylee9107/DataScience_Projects/tree/main/Project%204%20-%20DS%20for%20Underpriced%20Apartments)
 
 ### My Learning Projects for Skill Improvement:
-<img src="Display Images/2020_Nov_GitHub_Skills.PNG " width="950">
+<img src="Display Images/2020_Nov_GitHub_Skills.PNG " width="1050">
 
 ### Links to My Learning Projects:
 1.	[TensorFlow 2.0](https://github.com/ylee9107/ComputerVisionTensorFlow2_myLearning)
