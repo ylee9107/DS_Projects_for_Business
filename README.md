@@ -25,5 +25,6 @@ Below is a chart showing the projects available to view and its short descriptio
 ## Future works:
 -	Recommendation Engine (GitHub Profiles)
 -	Image Segmentation Project (Fault Detection)
+- Advanced Natural Language Processing (NLP) with Machhine Learrning and Deep Learning.
 -	Learn Deep Learning with Facebook’s Torch (PyTorch programming)
 -	Deep Learning for video processing.
