@@ -55,9 +55,9 @@ contains:
 
 ## Model Output Predictions and Accuracy:
 The final model was able to achieve __~88% accuracy__ in detecting the diseases.
-<img src="Description Images/ResNet_FINAL_tune.PNG" width="450">
+<img src="Description Images/ResNet_FINAL_tune.PNG" width="750">
 The diagram below shows the output predictions made on the testing images and it outputs what the model believes to the correct diagnosis.
-<img src="Description Images/Model_Output_results.PNG" width="450">
+<img src="Description Images/Model_Output_results.PNG" width="950">
  
 ## Summary:
 For this project, I was able to leverage my understanding in Convolutional Neural Networks for image classification tasks, where in this case, it is the ResNet-50 model built from scratch and apply it for this problem. I was also able to improve on the initial model with better hyperparameter selection and some model architecture changes that enables this model to reach ~88% accuracy from ~75%. A further expansion to this project would be to utilise my knowledge of image segmentation to build a model that will highlight the problem areas on the X-rays scans. This in theory would help doctors identify and verify the problem areas faster and would be able to proceed to the treatment stage. 
