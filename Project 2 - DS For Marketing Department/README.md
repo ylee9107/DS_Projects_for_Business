@@ -68,9 +68,11 @@ The following shows the attributes of the Credit Card dataset :
 
 ### Example Results from the Clustering model:
 The following shows the cluster separation based on customer’s purchasing behaviour.
+
 <img src="Description Images/ PCA_cluster_separation.PNG" width="650">
 
 The following shows a “cut-down” version of the Clustering output results that details of each customer group behaviour.
+
 <img src="Description Images/ Output_results_Clusters.PNG" width="650">
 
 ## Summary:
