@@ -8,6 +8,11 @@ Searching for apartments that falls within your budget and location choice can b
 
 The __goal__ here is to make an application that will help the apartment hunting process that also explores these kinds of questions.
 
+## Breakdown of the Showcase Files found in this Github Repository (seen above):
+1. __MLApp_underpricedApartments.ipynb__ -  Shows my complete step-by-step approach to reaching the final model. 
+2. __UnderpricedApartments_Main.ipynb__ - Shows the “Streamlined” version where it scrapes the website and accesses Google’s Geolocation and Codes API in the background and outputs the results. There is a handy function to input the search options (Zip code and number of beds) and it will generate the prices. This can be considered closer to the “Deployable” version of this project.
+
+
 ## Breakdown of this Project:
 1. Inspect through the Source Apartment Listing Website with Browser.
 2. Explore through HTML Data and prepare the data.
