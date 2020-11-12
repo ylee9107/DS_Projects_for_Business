@@ -42,8 +42,7 @@ Website Description (From Source): Apartment hunting can be overwhelming, but we
 
 The diagram below shows a Choropleth (heatmap) of the Apartment prices by zip code in New York City. 
 
-<img src="Description Images/Rental_Prices_NY_Choropleths_1.PNG
-" width="550">
+<img src="Description Images/Rental_Prices_NY_Choropleths_1.PNG" width="550">
 
 
 ## Summary
