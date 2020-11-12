@@ -4,6 +4,8 @@ Welcome to my GitHub profile. This is the main page and folder that will hold mo
 
 Below is a chart showing the projects available to view and its short description. There will be links provided for navigation to each individual project. 
 
+__*Disclaimer__ - When loading the files on Github, sometimes it may requires one or more page reloads to display these projects. Don't everything should work, it is jjust GitHub being finicky.
+
 ### Overview of the Projects for Showcase:
 <img src="Display Images/2020_Nov_GitHub_Projects_Guide.PNG " width="1050">
 
@@ -15,6 +17,8 @@ Below is a chart showing the projects available to view and its short descriptio
 
 ### My Learning Projects for Skill Improvement:
 <img src="Display Images/2020_Nov_GitHub_Skills.PNG " width="1050">
+
+Aside from the 4 showcase projects presented above, I also have more projects to explore/view in the following links below. These will show my skills for Deep Learning, Big Data, Machine Learning and Data Science. I highly recommend exploring interesting models like Object Detection or Image Segmentation in TensorFlow 2.0 link as a start.
 
 ### Links to My Learning Projects:
 1.	[TensorFlow 2.0](https://github.com/ylee9107/ComputerVisionTensorFlow2_myLearning) A repository consisting of my learning experience with TensorFlow 2.0.
