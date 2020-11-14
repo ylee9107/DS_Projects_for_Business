@@ -23,7 +23,7 @@ Aside from the 4 showcase projects presented above, I also have more projects to
 ### Links to My Learning Projects:
 1.	[TensorFlow 2.0](https://github.com/ylee9107/ComputerVisionTensorFlow2_myLearning) A repository consisting of my learning experience with TensorFlow 2.0.
 2.	[PySpark](https://github.com/ylee9107/PySpark_myLearning) A repository consisting of my learning experience with Apache Spark where PySpark is the Python interface.
-3.	[Feature Engineering]( https://github.com/ylee9107/FeatureEngineering_myLearning) A repository consisting of my learning experience with feature engineering within the dataset for Machine Learning and Deep Learning models.
+3.	[Feature Engineering]( https://github.com/ylee9107/FeatureEngineering_myLearning) (__Updates coming soon__)A repository consisting of my learning experience with feature engineering within the dataset for Machine Learning and Deep Learning models.
 4.	[Tableau](https://github.com/ylee9107/Visual-Analytics-Project-1-footballResults) A project to show my ability to use Tableau as a data visualisation tool. 
 
 ## Future works:
