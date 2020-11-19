@@ -4,7 +4,7 @@ Welcome to my GitHub profile. This is the main page and folder that will hold mo
 
 Below is a chart showing the projects available to view and its short description. There will be links provided for navigation to each individual project. 
 
-__*Disclaimer__ - When loading the files on Github, sometimes it may requires one or more page reloads to display these projects. Don't worry everything should work, it is just GitHub being finicky. (Use the notebook viewer links I created -> https://nbviewer.jupyter.org/ in each of the Showcase Folders, found in the Introduction section.)
+__*Disclaimer__ - When loading the files on Github, sometimes it may requires one or more page reloads to display these projects. Don't worry everything should work, it is just GitHub being finicky. (Use the notebook viewer links I've created -> https://nbviewer.jupyter.org/ in each of the Showcase Folders, found in the Introduction section.)
 
 ### Overview of the Projects for Showcase:
 <img src="Display Images/2020_Nov_GitHub_Projects_Guide.PNG " width="1050">
