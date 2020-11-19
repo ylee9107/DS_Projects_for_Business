@@ -1,4 +1,9 @@
 # Data Science Showcase Project 2 - Marketing Department
+
+## To view the notebooks:
+- __DSB_Marketing Department.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%202%20-%20DS%20For%20Marketing%20Department/DSB_Marketing%20Department.ipynb
+- __Marketing_Main.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%202%20-%20DS%20For%20Marketing%20Department/Marketing_Main.ipynb
+
 ## Introduction:
 
 In every business, an effective Marketing department plays a crucial role in developing the company's growth and sustainability. The department is able to build the company's brand and engage customers leading towards increased sales for greater revenue growth.
