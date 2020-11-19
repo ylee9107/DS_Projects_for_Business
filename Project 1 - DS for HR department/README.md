@@ -1,5 +1,9 @@
 # Data Science Showcase Project 1 - Human Resource (HR) Department
 
+## To view: 
+- __DSB_Human Resource Department.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%201%20-%20DS%20for%20HR%20department/DSB_Human%20Resource%20Department.ipynb
+- __HR_Main.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%201%20-%20DS%20for%20HR%20department/HR_Main.ipynb
+
 ## Introduction:
 The goal of this project is to develop a model that lowers the costs associated with hiring and training employees, this is done by focusing on the predicting which employees might leave the company. Within any organisation/company, the approach towards spending decisions every day plays a major role in company success and one of these decisions would be the important investment in people. The hiring process takes up a lot of skills, patience, time and money. 
 
