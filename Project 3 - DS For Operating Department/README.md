@@ -1,4 +1,10 @@
 ## Data Science Showcase Project 3 – Operations Department (Hospital)
+
+## To view the Notebooks:
+- __DSB_Operations Department_Notebook1.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%203%20-%20DS%20For%20Operating%20Department/DSB_Operations%20Department_Notebook1.ipynb
+- __DSB_Operations Department_Notebook2.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%203%20-%20DS%20For%20Operating%20Department/DSB_Operations%20Department_Notebook2.ipynb
+- __Disease Detection_Main.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%203%20-%20DS%20For%20Operating%20Department/Disease%20Detection_Main.ipynb
+
 ## Introduction:
 
 In this project, the Operations department is part of a hospital that is taking a deep learning approach to look for patterns and methods to speed up the process of testing and diagnostics. As everyone should be familiar by now, in the begining of the year 2020, there was the Coronavirus (Covid-19) outbreak and in this project, the goal is to tackle the challenge of developing an automated system that is able process, detect and classify these chest diseases. The drive here is to save on costs and time for detecting these chest diseases. It is the hope that the model is able to classify these diseases accurately (as well as possible) in less than 1 minute. This dataset consists of X-ray(PA-CXR) images of COVID-19, bacterial and viral pneumonia patients and normal people, where more information can be found in the "Dataset" section below. 
