@@ -1,6 +1,8 @@
 # Data Science Showcase Project 4 – App to find under-priced apartments
 
-# App to find Under-priced Apartments:
+# To View the Notebooks:
+- __MLApp_underpricedApartments.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%204%20-%20DS%20for%20Underpriced%20Apartments/MLApp_underpricedApartments.ipynb
+- __UnderpricedApartments_Main.ipynb__: https://nbviewer.jupyter.org/github/ylee9107/DataScience_Projects/blob/main/Project%204%20-%20DS%20for%20Underpriced%20Apartments/UnderpricedApartments_Main.ipynb
 
 # Introduction:
 
