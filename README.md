@@ -29,6 +29,7 @@ Aside from the 4 showcase projects presented above, I also have more projects to
 ## Future works:
 -	Recommendation Engine (GitHub Profiles)
 -	Image Segmentation Project (Fault Detection)
+- Microsoft Azure for Machine Learning
 - Advanced Natural Language Processing (NLP) with Machine Learning and Deep Learning.
 -	Learn Deep Learning with Facebook’s Torch (PyTorch programming)
 -	Deep Learning for video processing.
